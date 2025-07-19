@@ -15,7 +15,7 @@ print(f"{first_number} + {second_number} = {sum:.2f}")
 print("Enter two numbers to sub")
 firstnumber = input("first number:")
 secondnumber = input("second number:")
-sum = float(firstnumber) - float(secondnumber)
+sub = float(firstnumber) - float(secondnumber)
 print(f"{firstnumber} - {secondnumber} = {sub:.2f}")
 
 print("Enter two numbers to mul")
